@@ -53,7 +53,7 @@ Requirements:
 - libXft
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/danrieder/st
 cd st
 sudo make install
 ```
